@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/download",
+      "dest": "/api/download"
+    }
+  ]
+}
