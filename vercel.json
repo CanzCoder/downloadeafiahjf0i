@@ -3,6 +3,10 @@
     {
       "src": "/download",
       "dest": "/api/download"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/public/$1"
     }
   ]
 }
